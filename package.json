@@ -1,0 +1,11 @@
+{
+  "name": "shadowbot-plugin-dns",
+  "description": "This plugin allows checking dns data for remote domains",
+  "version": "1.0.0",
+  "author": "R4Wizard",
+  "main": "plugin.js",
+  "dependencies": {
+    "native-dns": "^0.7.0",
+    "shadowbot-plugin-base": "^1"
+  }
+}
